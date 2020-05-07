@@ -1,2 +1,3 @@
-# teacherwoo-math
-teacherwoo-math
+# 吴老师的机器学习 理论课
+
+从数学入手，逐步实现机器学习理论的讲解。
